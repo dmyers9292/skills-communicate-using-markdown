@@ -5,4 +5,4 @@
 ##### This is a h5 header
 ###### This is a h6 header
 
-This is a test of markdown headers
+![Image of a zebra](https://cdn.mos.cms.futurecdn.net/HjFE8NKWuCmgfHCcndJ3rK-1200-80.jpg)
